@@ -57,8 +57,8 @@ Concluding Insights
 - **Future Work**: Future research could enhance predictive accuracy by integrating additional variables and exploring hybrid models that combine ARIMA with machine learning techniques.
 
 
-# Contributions
+## Contributions
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
-# License
+## License
 This project is licensed under the MIT License.
