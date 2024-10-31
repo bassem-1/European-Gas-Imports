@@ -1,6 +1,4 @@
-# Gas Outflows
- 
-# European Natural Gas Imports Prediction
+ # European Natural Gas Imports Prediction
 
 ## Project Overview
 This project aims to predict European natural gas imports from various countries using time series analysis. It utilizes an ARIMA model to forecast imports based on historical data, enhancing decision-making processes in energy trading and supply chain management.
