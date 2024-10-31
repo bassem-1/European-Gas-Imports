@@ -49,7 +49,7 @@ These metrics provide insights into the accuracy of the predictions.
 
 ## Conclusion and Insights
 Concluding Insights
-- **Predictive Power**: The ARIMA model effectively forecasts future natural gas imports by leveraging historical data and capturing temporal relationships through lagged values.
+- **Predictive Power**: The ARIMA model effectively forecasts future natural gas EU imports by leveraging historical data and capturing temporal relationships through lagged values.
 - **Key Markets**: Analysis focused on major suppliers like Russia and Libya, highlighting the impact of their import fluctuations on European gas supply dynamics.
 - **Stationarity**: Achieving stationarity through differencing is crucial for accurate time series forecasting, emphasizing the importance of data preprocessing.
 - **Model Evaluation**: Metrics such as Mean Squared Error (MSE) and R-squared (R²) demonstrate the model's effectiveness in capturing import patterns.
