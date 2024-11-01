@@ -17,12 +17,10 @@ This project aims to predict European natural gas imports from various countries
 With the growing demand for natural gas in Europe, accurately predicting import volumes is crucial for optimizing supply chain operations. This project leverages statistical methods to provide insights into future import trends.
 
 ## Data
-The dataset used in this project consists of historical daily natural gas import data for various European countries. The data is sourced from [insert data source here, e.g., a government agency, market report, etc.], covering the period from [start date] to [end date]. The dataset includes:
+The dataset used in this project consists of historical daily natural gas import data for various European countries. The data is sourced from [Bruegel, a European think tank] (https://www.bruegel.org/dataset/european-natural-gas-imports)], covering the period from [01.08.2018] to [20.10.2024]. The dataset includes:
 - Date
 - Country
 - Daily import volumes
-
-Make sure to replace the placeholder with the actual data source and dates.
 
 ## Technologies Used
 - **Python**: The primary programming language.
