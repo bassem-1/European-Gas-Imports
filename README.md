@@ -35,9 +35,8 @@ The ARIMA (AutoRegressive Integrated Moving Average) model is used for forecasti
 1. Data loading and preprocessing.
 2. Performing the Augmented Dickey-Fuller (ADF) test for stationarity.
 3. Plotting ACF and PACF for determining ARIMA parameters.
-4. Splitting the dataset into training and testing sets.
-5. Fitting the ARIMA model and making predictions.
-6. Evaluating the model's performance.
+4. Fitting the ARIMA model and making predictions.
+5. Evaluating the model's performance.
 
 ## Evaluation Metrics
 The model's performance is evaluated using:
