@@ -42,7 +42,6 @@ The ARIMA (AutoRegressive Integrated Moving Average) model is used for forecasti
 The model's performance is evaluated using:
 - Mean Squared Error (MSE)
 - R-squared (R²)
-These metrics provide insights into the accuracy of the predictions.
 
 ## Conclusion and Insights
 Concluding Insights
