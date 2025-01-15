@@ -48,7 +48,7 @@ Concluding Insights
 - **Predictive Power**: The ARIMA model effectively forecasts future natural gas EU imports by leveraging historical data and capturing temporal relationships through lagged values. Metrics such as Mean Squared Error (MSE) and R-squared (R²) demonstrate the model's effectiveness in capturing import patterns.
 - **Key Markets**: Analysis focused on major suppliers like Azerbaijan and Libya, highlighting the impact of their import fluctuations on European gas supply dynamics.
 - **Strategic Implications**: Accurate forecasts provide valuable insights for traders and policymakers, aiding in decision-making and supply chain management in the commodities market.
-- **Future Work**: Future research could enhance predictive accuracy. Vector AutoRegression could look into patterns between different variables (imports from different countries) to increase forecasting accuracy. Correlation analysis could be helpful to understand how and why variables are correlated. Adding other variables (e.g. weather, sentiment analysis about geopolitical factors,...) and using ML techniques could be beneficial.
+- **Future Work**: Future research could enhance predictive accuracy. Vector Auto Regression could be used to increase forecasting accuracy by using multiple variables (imports from two or more countries). Correlation analysis could be helpful to understand if and how certain variables are correlated. Adding other variables (e.g. weather, sentiment analysis on geopolitical factors,...) and using ML techniques could be beneficial.
 
 
 ## Contributions
