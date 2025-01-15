@@ -45,16 +45,14 @@ The model's performance is evaluated using:
 
 ## Conclusion and Insights
 Concluding Insights
-- **Predictive Power**: The ARIMA model effectively forecasts future natural gas EU imports by leveraging historical data and capturing temporal relationships through lagged values.
+- **Predictive Power**: The ARIMA model effectively forecasts future natural gas EU imports by leveraging historical data and capturing temporal relationships through lagged values. Metrics such as Mean Squared Error (MSE) and R-squared (R²) demonstrate the model's effectiveness in capturing import patterns.
 - **Key Markets**: Analysis focused on major suppliers like Azerbaijan and Libya, highlighting the impact of their import fluctuations on European gas supply dynamics.
-- **Stationarity**: Achieving stationarity through differencing is crucial for accurate time series forecasting, emphasizing the importance of data preprocessing.
-- **Model Evaluation**: Metrics such as Mean Squared Error (MSE) and R-squared (R²) demonstrate the model's effectiveness in capturing import patterns.
 - **Strategic Implications**: Accurate forecasts provide valuable insights for traders and policymakers, aiding in decision-making and supply chain management in the commodities market.
-- **Future Work**: Future research could enhance predictive accuracy by integrating additional variables and exploring hybrid models that combine ARIMA with machine learning techniques.
+- **Future Work**: Future research could enhance predictive accuracy. Vector AutoRegression could look into patterns between different variables (imports from different countries) to increase forecasting accuracy. Correlation analysis could be helpful to understand how and why variables are correlated. Adding other variables (e.g. weather, sentiment analysis about geopolitical factors,...) and using ML techniques could be beneficial.
 
 
 ## Contributions
-Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+Contributions are welcome.
 
 ## License
 This project is licensed under the MIT License.
